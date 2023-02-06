@@ -102,8 +102,8 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   imageIcon: {
-    width: 150,
-    height: 150,
+    width: 100,
+    height: 100,
     marginLeft: 95,
   }
 });
